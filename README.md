@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection System 🚗💤
+# Driver Drowsiness Detection System 
 
 A real-time system to detect driver drowsiness using OpenCV, Haar cascades, and audio alerts.
 
